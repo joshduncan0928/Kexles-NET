@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "fea5c714a54aad507b2b897126895a2b9d76ef67"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Kexles/1.0.0": {
+        "dependencies": {
+          "BigDecimal": "1.0.0",
+          "dmath.core": "1.6.1",
+          "ConsoleUtils": "0.1.2.0"
+        },
+        "runtime": {
+          "Kexles.dll": {}
+        }
+      },
+      "BigDecimal/1.0.0": {},
+      "dmath.core/1.6.1": {
+        "runtime": {
+          "lib/netstandard1.3/Deveel.Math.Core.dll": {}
+        }
+      },
+      "ConsoleUtils/0.1.2.0": {
+        "runtime": {
+          "ConsoleUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kexles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BigDecimal/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uGHFDXsDloP3Z1Z9CM3xLmlcgwI+0sHy5E3yHZB8bhbIhYSRLk6L7w6Rua6NvJvs5rDD73n3IU+b1T/sB2uAIg==",
+      "path": "bigdecimal/1.0.0",
+      "hashPath": "bigdecimal.1.0.0.nupkg.sha512"
+    },
+    "dmath.core/1.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+Yb09Mmj2v6PObZqBH3lkTuQIUjExZme/wKMdIKtggyPgAyjPedVuFxPe8sbEuIFCQjw98ngLIXADtp7Usl/7A==",
+      "path": "dmath.core/1.6.1",
+      "hashPath": "dmath.core.1.6.1.nupkg.sha512"
+    },
+    "ConsoleUtils/0.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

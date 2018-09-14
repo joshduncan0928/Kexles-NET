@@ -1,0 +1,14 @@
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\bin\Debug\netcoreapp2.0\Kexles.deps.json
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\bin\Debug\netcoreapp2.0\Kexles.runtimeconfig.json
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\bin\Debug\netcoreapp2.0\Kexles.runtimeconfig.dev.json
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\bin\Debug\netcoreapp2.0\Kexles.dll
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\bin\Debug\netcoreapp2.0\Kexles.pdb
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\obj\Debug\netcoreapp2.0\Kexles.csprojResolveAssemblyReference.cache
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\obj\Debug\netcoreapp2.0\Kexles.csproj.CoreCompileInputs.cache
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\obj\Debug\netcoreapp2.0\Kexles.AssemblyInfoInputs.cache
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\obj\Debug\netcoreapp2.0\Kexles.AssemblyInfo.cs
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\obj\Debug\netcoreapp2.0\Kexles.dll
+c:\users\joshua.duncan\Source\Repos\Kexles\Kexles\obj\Debug\netcoreapp2.0\Kexles.pdb
+C:\Users\joshua.duncan\Source\Repos\Kexles\Kexles\bin\Debug\netcoreapp2.0\ConsoleUtils.dll
+C:\Users\joshua.duncan\Source\Repos\Kexles\Kexles\bin\Debug\netcoreapp2.0\ConsoleUtils.pdb
+C:\Users\joshua.duncan\Source\Repos\Kexles\Kexles\obj\Debug\netcoreapp2.0\Kexles.csproj.CopyComplete

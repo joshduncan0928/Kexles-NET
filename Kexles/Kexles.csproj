@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BigDecimal" Version="1.0.0" />
+    <PackageReference Include="dmath.core" Version="1.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ConsoleUtils">
+      <HintPath>..\..\ConsoleUtils\ConsoleUtils\bin\Debug\ConsoleUtils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
